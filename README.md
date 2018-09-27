@@ -1,0 +1,2 @@
+# ScSqlGen
+Stancode SQL generator
